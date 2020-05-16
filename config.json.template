@@ -1,0 +1,15 @@
+{
+    "Guild ID 1": {
+        "title": "Title 1",
+        "desc": "Description 1",
+        "header": "Header 1",
+        "ignored_channels": [
+            "channel a", "channel b", "channel c", "channel d"
+        ]
+    },
+    "Guild ID 2": {
+        "title": "Title 2",
+        "desc": "Description 2",
+        "header": "Header 2"
+    }
+}
